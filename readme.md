@@ -10,7 +10,7 @@ Uma vida é pouco para conhecer esse mundo.</p>
 <p>💻Vejo na programação a maneira de conectar esse mundo, resolver problemas e melhorar a qualidade de vida.</p> 
 <br>
 <br>
-<div>
+<div display="flex">
 <a href="https://github.com/filipefranc0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefranc0&layout=compact&langs_count=7&theme=gruvbox"/>
 </a>
