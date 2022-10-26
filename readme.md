@@ -2,7 +2,7 @@
 
 <p>i'm Filipe Franco, 25 years old and curious for all (almost all)</p><br>  
 <div align="justify">
-<p>☕ Primeiro café, Olá :D</p>
+<p>☕ Primeiro o café, Olá :D</p>
 <p>📷 apaixonado por arte, fotografia e criação digital.</p>
 <p>🌎 Conhecimentos gerais e curiosidades sobre o mundo, geografia, linguas, culturas e comportamento humano.
 Uma vida é pouco para conhecer esse mundo.</p>
