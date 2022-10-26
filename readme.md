@@ -14,7 +14,7 @@ Uma vida é pouco para conhecer esse mundo.</p>
 <a href="https://github.com/filipefranc0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefranc0&layout=compact&langs_count=7&theme=gruvbox"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/filipefranc0/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipefranc0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </a>
 </div>
